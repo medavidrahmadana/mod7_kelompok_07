@@ -3,7 +3,7 @@ using System.IO;
 using System.Text.Json;
 using System;
 
-public class dataMahasiswa_1302213054()
+class dataMahasiswa_1302213054()
 {
     public dataMahasiswa_1302213054()
     {
