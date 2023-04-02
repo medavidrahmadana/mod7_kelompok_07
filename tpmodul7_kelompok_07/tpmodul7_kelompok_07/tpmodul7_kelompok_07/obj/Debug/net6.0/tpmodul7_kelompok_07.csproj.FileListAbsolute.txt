@@ -1,0 +1,15 @@
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\bin\Debug\net6.0\tpmodul7_kelompok_07.exe
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\bin\Debug\net6.0\tpmodul7_kelompok_07.deps.json
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\bin\Debug\net6.0\tpmodul7_kelompok_07.runtimeconfig.json
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\bin\Debug\net6.0\tpmodul7_kelompok_07.dll
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\bin\Debug\net6.0\tpmodul7_kelompok_07.pdb
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\tpmodul7_kelompok_07.csproj.AssemblyReference.cache
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\tpmodul7_kelompok_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\tpmodul7_kelompok_07.AssemblyInfoInputs.cache
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\tpmodul7_kelompok_07.AssemblyInfo.cs
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\tpmodul7_kelompok_07.csproj.CoreCompileInputs.cache
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\tpmodul7_kelompok_07.dll
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\refint\tpmodul7_kelompok_07.dll
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\tpmodul7_kelompok_07.pdb
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\tpmodul7_kelompok_07.genruntimeconfig.cache
+C:\Users\Rheins\Downloads\mod7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\tpmodul7_kelompok_07\obj\Debug\net6.0\ref\tpmodul7_kelompok_07.dll
